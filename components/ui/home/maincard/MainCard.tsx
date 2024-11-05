@@ -7,7 +7,7 @@ export const staticData = [
     date: "Oct 1",
     views: 479,
     comments: 8,
-    imageUrl: "https://via.placeholder.com/150", // Replace with real image URL
+    imageUrl: "/assets/150x150.jpeg",
     id: 0,
   },
   {
@@ -17,7 +17,7 @@ export const staticData = [
     date: "Sep 23",
     views: 320,
     comments: 5,
-    imageUrl: "https://via.placeholder.com/150", // Replace with real image URL
+    imageUrl: "/assets/150x150.jpeg", // Replace with real image URL
     id: 1,
   },
 ];
